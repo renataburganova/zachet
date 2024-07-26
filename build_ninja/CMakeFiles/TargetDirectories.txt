@@ -1,6 +1,0 @@
-C:/IT/zachet/zachet/build_ninja/CMakeFiles/edit_cache.dir
-C:/IT/zachet/zachet/build_ninja/CMakeFiles/rebuild_cache.dir
-C:/IT/zachet/zachet/build_ninja/vector/CMakeFiles/edit_cache.dir
-C:/IT/zachet/zachet/build_ninja/vector/CMakeFiles/rebuild_cache.dir
-C:/IT/zachet/zachet/build_ninja/list/CMakeFiles/edit_cache.dir
-C:/IT/zachet/zachet/build_ninja/list/CMakeFiles/rebuild_cache.dir
