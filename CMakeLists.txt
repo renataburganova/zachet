@@ -6,7 +6,6 @@ enable_testing()
 add_subdirectory(lib/googletest)
 
 add_subdirectory(src)
-add_subdirectory(vector)
-add_subdirectory(list)
+add_subdirectory(test)
 
 set(CMAKE_SUPPRESS_REGENERATION true)
