@@ -1,15 +1,15 @@
 #include <gtest/gtest.h>
 
-#include <doubly_linked_list.hpp>
+#include "doubly_linked_list.hpp"
 
-using RBurganovs::DoublyLinkedList;
+using RBurganova::DoublyLinkedList;
 
 TEST(default_constructor, size) {
 	DoublyLinkedList<int> l;
 	ASSERT_EQ(0, l.get_size());
 }
 
-TEST(push_back, full) {
+TEST(push_back, many) {
 	DoublyLinkedList<int> l;
 	l.push_back(1);
 	l.push_back(2);
