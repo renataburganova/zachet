@@ -16,7 +16,7 @@ TEST(push_back, many) {
 	l.push_back(3);
 	ASSERT_EQ(3, l.get_size());
 	EXPECT_TRUE(l.has_item(1));
-	EXPECT_FALSE(l.has_item(4))
+	EXPECT_FALSE(l.has_item(4));
 }
 
 TEST(remove_first, one) {
